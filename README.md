@@ -9,3 +9,5 @@ The package is used here in order to control access, to make searching/locating,
 4. public class Client gets the input characters.
 5. public class MoveFile uses the input information to create text files and save it to "server 1", and then it makes a backup copy and save the backup to "server 2".
 
+Public method:
+1. getFileName()
