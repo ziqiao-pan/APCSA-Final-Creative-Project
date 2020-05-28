@@ -11,3 +11,10 @@ The package is used here in order to control access, to make searching/locating,
 
 Public method:
 1. getFileName()
+
+Work Cited:
+1. https://www.javatpoint.com/socket-programming
+2. https://www.codota.com/code/java/methods/java.util.Calendar/getInstance
+3. https://blog.csdn.net/qq_36666651/article/details/84191732
+4. https://www.jianshu.com/p/7856f63c7ff3
+5. http://read.pudn.com/downloads167/sourcecode/java/applet/770589/苏庆坤/FileOperate.java__.htm
